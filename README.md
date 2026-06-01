@@ -15,7 +15,7 @@ Leveraging my extensive engineering experience, I focus heavily on the technical
 `PostgreSQL` `Git` `Ruby` `Ruby on Rails` `Java` `JavaScript` `Node.js` `Ubuntu Linux`
 
 ### AI Tools
-`Aider`
+`Aider` `NotebookLM`
 
 ---
 
