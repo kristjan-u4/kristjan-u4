@@ -1,4 +1,6 @@
-## Hi there 👋
+## Skills
+
+`PostgreSQL` `Python` `Streamlit` `Git`
 
 <!--
 **kristjan-u4/kristjan-u4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
