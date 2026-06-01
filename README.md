@@ -4,7 +4,9 @@
 
 ## Projects
 
-### DACA
+### DACA - Data Analyst Career Accelerator
+
+Junior Data Analyst Training Program | Mar 2026 – Jun 2026
 
 * [PostgreSQL aggregations, CTE-s](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-04)
 * [Streamlit Dashboard](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-06)
