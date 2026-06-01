@@ -2,9 +2,14 @@
 
 `PostgreSQL` `Python` `Streamlit` `Git`
 
-## Portfolio
+## Projects
 
-### [DACA](https://github.com/kristjan-u4/daca-portfolio)
+### DACA
+
+* [Streamlit Dashboard](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-06)
+* [RFM Analysis with Python & Pandas](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-07)
+* [ETL Pipeline and Automation with Python](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-08)
+* [Full Portfolio](https://github.com/kristjan-u4/daca-portfolio)
 
 <!--
 **kristjan-u4/kristjan-u4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
