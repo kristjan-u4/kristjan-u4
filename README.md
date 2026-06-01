@@ -1,6 +1,22 @@
+## My Profile
+
+I'm a **Junior Analytics Engineer** with 15+ years of **Software Development** background.
+
+Leveraging my extensive engineering experience, I focus heavily on the technical and architectural side of data-transforming, modeling, and building clean data pipelines rather than just business reporting.
+
 ## Skills
 
+### Analytics Engineering
+
 `PostgreSQL` `Python` `Streamlit` `Git`
+
+### Software Development
+
+`Git` `Ruby` `Ruby on Rails` `Java` `Javascript` `Node.js` `Ubuntu Linux`
+
+### AI Tools
+
+`Aider`
 
 ## Projects
 
