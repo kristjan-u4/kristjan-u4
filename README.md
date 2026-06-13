@@ -23,16 +23,18 @@ Leveraging my extensive engineering experience, I focus heavily on the technical
 
 ### DACA - Data Analyst Career Accelerator
 
-**Junior Data Analyst Training Program** | Mar 2026 – Jun 2026
+**Junior Data Analyst Practical Mentorship Program** | Mar 2026 – Jun 2026
 
 * 📁 **[View Full Portfolio Repository](https://github.com/kristjan-u4/daca-portfolio)** — *Full repository containing a portfolio with weekly projects. Highlights:*
   * [PostgreSQL aggregations, CTEs](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-04)
   * [Streamlit Dashboard](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-06)
   * [RFM Analysis with Python & Pandas](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-07)
   * [ETL Pipeline and Automation with Python](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-08)
+ 
+I also summarized the portfolio on a [webpage](https://daca-portfolio.vercel.app/)
 
 ---
 
 ## 📬 Contact
 
-* **LinkedIn:** [linkedin.com/in/kristjan-u4](https://www.linkedin.com/in/kristjan-u4)
+* [LinkedIn](https://www.linkedin.com/in/kristjan-u4)
