@@ -1,8 +1,8 @@
-## 👋 My Profile
+## 👋 Hi, I'm Kristjan!
 
-I'm a **Junior Analytics Engineer** with 15+ years of **Software Development** background.
+I'm a **certified Junior Data Analyst**. Heavily influenced by my 15+ years long career in **Software Development**, I've developed a strong interest in **Analytics Engineering**.
 
-Leveraging my extensive engineering experience, I focus heavily on the technical and architectural side of data—transforming, modeling, and building clean data pipelines rather than just business reporting.
+I focus on bringing software engineering best practices into the data ecosystem.
 
 ---
 
