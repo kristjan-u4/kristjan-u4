@@ -36,4 +36,4 @@ I also summarized the portfolio on a [webpage](https://daca-portfolio.vercel.app
 
 ## 📬 Contact
 
-**[💼 LinkedIn](https://www.linkedin.com/in/kristjan-u4)**
+**💼 [LinkedIn](https://www.linkedin.com/in/kristjan-u4)**
