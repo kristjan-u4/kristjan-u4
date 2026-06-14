@@ -27,7 +27,7 @@ I focus on bringing software engineering best practices into the data ecosystem.
 Completed an intensive 11-week mentorship program and earned my **Junior Data Analyst certificate**. The portfolio below documents my journey through the mentorship program. I've also summarized the portfolio on a [webpage](https://daca-portfolio.vercel.app/).
 
 * 📁 **[View Full Portfolio Repository](https://github.com/kristjan-u4/daca-portfolio)** — *Full repository containing a portfolio with weekly projects. Highlights:*
-* * [Data Storytelling via Streamlit Dashboard](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-06)
+  * [Data Storytelling via Streamlit Dashboard](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-06)
   * [ETL Pipeline and Automation with Python](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-08)
   * [RFM Analysis with Python & Pandas](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-07)
   * [PostgreSQL aggregations, CTEs](https://github.com/kristjan-u4/daca-portfolio/tree/main/portfolio/week-04)
