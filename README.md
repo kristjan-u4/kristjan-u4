@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kristjan!
 
-I'm a **certified Junior Data Analyst**. Heavily influenced by my 15+ years long career in **Software Development**, I've developed a strong interest in **Analytics Engineering**.
+I'm a **certified Junior Data Analyst**. Heavily influenced by my 15+ years long career in **Software Engineering**, I've developed a strong interest in **Analytics Engineering**.
 
 I focus on bringing software engineering best practices into the data ecosystem.
 
